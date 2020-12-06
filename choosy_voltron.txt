@@ -72,7 +72,7 @@ https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2
 
 // Long Shadow
 //notes:This is a test of the Long Shadow Roll I have. It ain't good lol.
-dimwishlist:item=3745990145&perks=1294026524,893526895,3142289711,247725512,1168162263,4248210736,2323986101,150943607,0,2285418970
+dimwishlist:item=3745990145&perks=1168162263,247725512,3142289711,893526895
 
 
 
@@ -89,7 +89,25 @@ https://destinytracker.com/destiny-2/db/items/3616586446-first-in-last-out?perks
 **********END OF CUSTOM ROLLS**********
 ***************************************
 ***************************************
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*										
+***************************************
+***************************************
+********START OF PREMADE ROLLS*********
+***************************************
+***************************************
 
 title:This is a compiled collection of god/recommended rolls from top community minds (and some things to avoid).
 description:Thanks to u/Mercules904, u/pandapaxxy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
