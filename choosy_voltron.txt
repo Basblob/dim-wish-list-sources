@@ -6,24 +6,6 @@
 
 
 
-//	INDEX:
-//
-// 		*Format* -> dimwishlist:item=&perks=
-//			"item="ApiID and "perks" separated by commas
-//
-// 		* = Best/Important | ^ = Good/Nice to Have | - = Not bad 
-//
-// 		Separate PVP/PVE Rolls w/ separate blocks of rolls
-// 			Keep PVP/PVE blocks of the same gun one after another.
-//
-// 		"//notes:..." will add notes to rolls following in DIM.
-//			This applies to everything below until a non-roll line
-//
-//		2 Lines b/w same gun
-//		3 Lines b/w diff. guns
-
-
-
 // Gnawing Hunger
 //notes:Sasha (PVP): Amazing stability and damage. https://bit.ly/31Qknqh
 https://destinytracker.com/destiny-2/db/items/821154603-gnawing-hunger?perks=1294026524,4090651448,3177308360,1890422124,1015611457,4248210736,941997506,150943607,3244015567,2931483505		
