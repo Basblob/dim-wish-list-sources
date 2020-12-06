@@ -1,0 +1,88 @@
+***************************************
+***************************************
+*************SASHA'S ROLLS*************
+***************************************
+***************************************
+//	INDEX:
+//
+// 		*Format* -> dimwishlist:item=&perks=
+//			"item="ApiID and "perks" separated by commas
+//
+// 		* = Best/Important | ^ = Good/Nice to Have | - = Not bad 
+//
+// 		Separate PVP/PVE Rolls w/ separate blocks of rolls
+// 			Keep PVP/PVE blocks of the same gun one after another.
+//
+// 		"//notes:..." will add notes to rolls following in DIM.
+//			This applies to everything below until a non-roll line
+//
+//		2 Lines b/w same gun
+//		3 Lines b/w diff. guns
+
+
+
+// Gnawing Hunger
+//notes:Sasha (PVP): Amazing stability and damage. https://bit.ly/31Qknqh
+https://destinytracker.com/destiny-2/db/items/821154603-gnawing-hunger?perks=1294026524,4090651448,3177308360,1890422124,1015611457,4248210736,941997506,150943607,3244015567,2931483505		
+
+
+
+// Ikelos_SMG
+//notes:Sasha (PVP): Aim - Has good Stab./Range | *Ext or *Poly Barrel | -Seraph, *Steady, ^Acc(*if poly) | *Subsist | *Surr or *Demo | MW=Ran/Stab.
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1467527085,3177308360,1359896290,1890422124,4248210736,736000386,150943607,0,905869860
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1392496348,3177308360,1359896290,1890422124,4248210736,736000386,150943607,0,905869860
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1392496348,3142289711,1359896290,1890422124,4248210736,736000386,150943607,0,905869860
+
+
+// Ikelos_SMG
+//notes:Sasha (PVE): Has good Stab/Range | *Ext. or ^Poly Barrel | *Seraph, -Steady, or ^Tac | *Subsist | *Surr or *Demo | MW *Ran/^Stab.
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1467527085,1140096971,1820235745,3708227201,4248210736,736000386,150943607,0,905869860
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1467527085,1140096971,1820235745,3523296417,4248210736,736000386,150943607,0,905869860
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1467527085,106909392,1820235745,3708227201,4248210736,736000386,150943607,0,905869860
+https://destinytracker.com/destiny-2/db/items/2222560548-ikelossmgv102?perks=1525239159,1467527085,106909392,1820235745,3523296417,4248210736,736000386,150943607,0,905869860
+
+
+
+// Biting Winds
+//notes:Sasha (PVP): High Accu. w/ Swashbuckler for dmg bonus | Fiberglass Arrow, Elas. Str., Moving Target or Killing Wind, & Swash
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3429800428,588594999,4082225868,4248210736,117884138,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3429800428,2450788523,4082225868,4248210736,2323986101,4283235143,0,2285418970
+
+
+// Biting Winds
+//notes:Sasha (PVE): Good PVE build but there's no perfect afaik.
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3429800428,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,4067834857,3429800428,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,852209214,3429800428,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,4067834857,3827198035,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,2801223209,3827198035,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+https://destinytracker.com/destiny-2/db/items/1621657423-biting-winds?perks=715195141,852209214,3827198035,2450788523,3365897133,4248210736,2323986101,4283235143,0,2285418970
+
+
+
+// Berenger's Memory
+//notes:Sasha (PVE): Maybe Field Prep. Rampage, *Demolitionist, *Auto Loading all solid. https://bit.ly/3ozyj1l
+https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2353477480,3798852852,3301904089,2284787283,3300816228,4248210736,2788909693,3803457565,0,2240097604
+https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2353477480,3798852852,3301904089,2284787283,3523296417,4248210736,2788909693,3803457565,0,2240097604
+https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2353477480,3798852852,3301904089,2284787283,3425386926,4248210736,2788909693,3803457565,0,2240097604
+
+
+// Long Shadow
+//notes:This is a test of the Long Shadow Roll I have. It ain't good lol.
+dimwishlist:item=3745990145&perks=1294026524,893526895,3142289711,247725512,1168162263,4248210736,2323986101,150943607,0,2285418970
+
+
+
+// First In, Last Out
+//notes:Sasha (PVE): -Bar. | *Ass, ^Tac, -App, *Ext | ^Out, *ALH | ^Dem, *Vor, -Sur. | https://bit.ly/3ozyj1l
+https://destinytracker.com/destiny-2/db/items/3616586446-first-in-last-out?perks=918679156,1840239774,791862061,3300816228,1546637391,4248210736,2323986101,150943607,0,2285418970
+https://destinytracker.com/destiny-2/db/items/3616586446-first-in-last-out?perks=918679156,1482024992,791862061,3300816228,1546637391,4248210736,2323986101,150943607,0,2285418970
+
+
+
+
+***************************************
+***************************************
+**********END OF CUSTOM ROLLS**********
+***************************************
+***************************************
