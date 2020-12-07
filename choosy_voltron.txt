@@ -53,8 +53,9 @@ https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2
 
 
 // Long Shadow
-//notes:This is a test of the Long Shadow Roll I have. It ain't good lol.
-dimwishlist:item=3745990145&perks=1168162263,247725512,3142289711,893526895
+//notes:Sasha (PvE / PvP): This is a test of the Long Shadow Roll I have. It ain't good lol.|tags:pve,pvp
+dimwishlist:item=3745990145&perks=893526894,3142289711,247725512,1168162263
+dimwishlist:item=3745990145&perks=893526895,3142289711,247725512,1168162263
 
 
 
